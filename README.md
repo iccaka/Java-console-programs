@@ -1,2 +1,2 @@
 # Java-programming
-Java programs
+Java example programs
